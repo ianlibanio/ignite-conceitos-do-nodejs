@@ -27,6 +27,8 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-testes">🛠 Testes</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">🚀 Como executar</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">📝 Licença</a>
@@ -43,7 +45,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto foi desenvolvido durante a trilha de Node.JS do programa Ignite, da RocketSeat, um programa de aceleração como foco na sua especialização, para quem já domina programação.
 
+Essa é uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username` bem como fazer o CRUD de *todos*. 
+
+
 Projeto: Conceitos do Node.js
+
+## 🛠 Testes
+
+### Específicação dos testes
+
+- [x] Should be able to list all user's todos
+- [x] Should be able to create a new todo
+- [x] Should be able to update a todo
+- [x] Should not be able to update a non existing todo
+- [x] Should be able to mark a todo as done
+- [x] Should not be able to mark a non existing todo as done
+- [x] Should be able to delete a todo
+- [x] Should not be able to delete a non existing todo
 
 ## 🚀 Como executar
 
